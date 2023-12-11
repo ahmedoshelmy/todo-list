@@ -1,0 +1,22 @@
+/* todo-item.component.css */
+div {
+  display: flex;
+  flex-direction: row; /* Change to row direction */
+  align-items: center; /* Align items vertically in the center */
+  border: 1px solid #ccc;
+  padding: 8px;
+  margin-bottom: 8px;
+  background-color: #f9f9f9;
+}
+
+h3 {
+  margin: 0;
+  color: #333;
+  font-size: 14px;
+}
+
+p {
+  margin: 0 0 0 10px; /* Add some margin between h3 and p */
+  color: #666;
+  font-size: 12px;
+}
